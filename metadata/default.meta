@@ -2,3 +2,8 @@
 export = system
 [transforms]
 export = system
+
+[props]
+export = system
+[transforms]
+export = system
